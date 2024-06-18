@@ -25,3 +25,10 @@
   <img src="https://streak-stats.demolab.com?user=dhairya8luthra&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairya8luthra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="140" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/dhairya8luthra/dhairya8luthra/output/snake.svg" alt="Snake animation" />
+
+###
+
